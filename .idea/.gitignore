@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/.idea/
-/target/
+/compiler.xml
+target
 /pom.xml
